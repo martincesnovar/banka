@@ -1,3 +1,4 @@
+#Testni projekt o banki
 import sqlite3
 import curses
 

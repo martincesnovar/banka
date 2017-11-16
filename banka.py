@@ -88,3 +88,4 @@ class BancniTerminal:
         self.menu = "glavni"
         
 BancniTerminal()
+
